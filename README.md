@@ -18,22 +18,3 @@ Este repositório contém uma coleção de scripts e ferramentas automatizadas d
 ## Como Contribuir
 
 Se você quiser contribuir ou reportar problemas, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. Estamos abertos a sugestões e melhorias.
-
-## Exemplos de Automações
-- exemplo
-
-## Como Usar
-
-1. Clone este repositório:
-
-    ```bash
-    git clone https://github.com/casastark/nome-do-repositorio.git
-    ```
-
-2. Navegue até o diretório da automação desejada:
-
-    ```bash
-    cd nome-do-repositorio/automacao1
-    ```
-
-3. Siga as instruções específicas no README da automação para configurar e executar.
